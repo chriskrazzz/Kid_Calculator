@@ -143,7 +143,11 @@ def find_max(kid, data, *args): #accepts HP, Str, Mag..., and Tot for total
             for i in range(len(mult)):
                 mult[i] += 1
         else:
-            mult[stats[stat]] += 1
+            try:
+                mult[stats[stat]] += 1
+            except KeyError:
+                print(f"{stat} does not exist, try again")
+                return None
 
         if j == 0:
             endstr += stat
@@ -173,5 +177,5 @@ def find_max(kid, data, *args): #accepts HP, Str, Mag..., and Tot for total
         print('\n')
     
 
-find_max("selkie", data, "str", "spd", "res")
+find_max("shigure", data, "mag", "spd", "tot")
 
