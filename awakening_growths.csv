@@ -1,0 +1,50 @@
+﻿Name,HP,Str,Mag,Skl,Spd,Lck,Def,Res,Gender,Role,Aptitude,Parent,Group,Child1,Pair1,Pair2,Pair3,Pair4,Class1,Class2,Class3
+Avatar,40,40,35,35,35,55,30,20,b,,,,,Morgan,,,,,Tactician,,
+Chrom,45,40,10,40,40,70,35,20,m,a,,,r,Lucina,Sully,Sumia,Olivia,Maribelle,Lord,Cavalier,Archer
+Lissa,35,25,35,30,35,65,15,35,f,,,,r,Owain,,,,,Cleric,Pegasus Knight,Troubadour
+Frederick,60,40,10,40,35,40,40,20,m,,,,,,Sumia,,,,Cavalier,Knight,Wyvern Rider
+Sully,40,35,20,40,40,60,35,20,f,,,,,Kjelle,Chrom,,,,Cavalier,Myrmidon,Wyvern Rider
+Virion,35,40,30,40,45,40,25,25,m,,,,,,,,,,Archer,Wyvern Rider,Mage
+Stahl,50,45,10,35,30,50,50,10,m,,,,,,,,,,Cavalier,Archer,Myrmidon
+Vaike,60,50,10,45,35,45,40,5,m,,,,,,,,,,Fighter,Thief,Barbarian
+Miriel,35,15,40,40,40,50,20,30,f,,,,,Laurent,,,,,Mage,Troubadour,Cleric
+Sumia,35,30,20,45,45,60,25,30,f,a,,,,Cynthia,Chrom,Henry,Gaius,Frederick,Pegasus Knight,Knight,Cleric
+Kellam,50,40,15,40,35,35,55,30,m,,,,,,,,,,Knight,Thief,Priest
+Donnel,50,45,15,40,45,80,35,15,m,a,y,,,,,,,,Villager,Fighter,Mercenary
+Lon'qu,40,35,20,50,50,55,25,20,m,,,,,,,,,,Myrmidon,Thief,Wyvern Rider
+Ricken,50,20,35,30,30,65,30,25,m,,,,,,,,,,Mage,Cavalier,Archer
+Maribelle,30,20,40,40,30,80,10,40,f,,,,,Brady,Chrom,,,,Troubadour,Pegasus Knight,Mage
+Panne,60,45,15,50,55,40,40,15,f,,,,,Yarne,,,,,Taguel,Thief,Wyvern Rider
+Gaius,50,45,15,45,45,35,25,15,m,,,,,,Sumia,,,,Thief,Fighter,Myrmidon
+Cordelia,50,45,15,35,35,45,40,25,f,,,,,Severa,,,,,Pegasus Knight,Mercenary,Dark Mage
+Gregor,60,40,10,40,30,45,40,10,m,,,,,,,,,,Mercenary,Barbarian,Myrmidon
+Nowi,70,45,35,30,30,65,50,35,f,,,,,Nah,,,,,Manakete,Mage,Wyvern Rider
+Libra,45,25,35,45,35,45,25,30,m,,,,,,,,,,Priest,Mage,Dark Mage
+Tharja,40,25,45,25,45,40,35,20,f,,,,,Noire,,,,,Dark Mage,Knight,Archer
+Anna,45,30,30,35,35,80,30,30,f,a,,,,,,,,,Thief,Archer,Mage
+Olivia,40,35,25,45,45,60,20,20,f,,,,,Inigo,,,,,Dancer,Myrmidon,Pegasus Knight
+Cherche,55,40,20,40,35,50,45,10,f,,,,,Gerome,,,,,Wyvern Rider,Troubadour,Cleric
+Henry,45,35,35,45,40,40,40,20,m,,,,,,Sumia,,,,Dark Mage,Barbarian,Thief
+Say'ri,50,35,20,40,40,45,35,30,f,a,,,,,,,,,Myrmidon,Pegasus Knight,Wyvern Rider
+Tiki,80,40,40,35,30,80,45,45,f,a,,,,,,,,,Manakete,Wyvern Rider,Mage
+Basilio,65,45,10,40,35,45,40,15,m,a,,,,,,,,,Fighter,Barbarian,Knight
+Flavia,50,35,20,45,45,55,30,25,f,a,,,,,,,,,Mercenary,Thief,Knight
+Gangrel,40,40,30,50,50,30,30,30,m,a,,,,,,,,,Thief,Barbarian,Dark Mage
+Walhart,75,60,10,30,30,45,45,25,m,a,,,,,,,,,Conqueror,Knight,Wyvern Rider
+Emmeryn,45,10,55,40,40,70,25,35,f,a,,,,,,,,,Cleric,Pegasus Knight,Troubadour
+Yenfay,60,45,10,45,50,60,30,20,m,a,,,,,,,,,Myrmidon,Wyvern Rider,Archer
+Aversa,45,25,45,35,40,65,30,30,f,a,,,,,,,,,Pegasus Knight,Wyvern Rider,Dark Mage
+Priam,80,60,10,40,30,50,40,10,m,a,,,,,,,,,Mercenary,Myrmidon,Fighter
+Lucina,45,35,20,45,45,80,25,25,f,c,,Chrom,,,,,,,Lord,,
+Owain,45,40,30,45,35,50,30,30,m,c,,Lissa,,,,,,,Myrmidon,,
+Inigo,50,35,15,35,45,65,30,20,m,c,,Olivia,,,,,,,Mercenary,,
+Brady,55,30,40,25,30,60,30,30,m,c,,Maribelle,,,,,,,Priest,,
+Kjelle,40,35,25,40,45,55,40,20,f,c,,Sully,,,,,,,Knight,,
+Cynthia,45,35,20,25,45,70,30,30,f,c,,Sumia,,,,,,,Pegasus Knight,,
+Severa,45,40,10,45,35,35,40,30,f,c,,Cordelia,,,,,,,Mercenary,,
+Gerome,65,50,15,40,40,30,40,10,m,c,,Cherche,,,,,,,Wyvern Rider,,
+Morgan,35,35,40,40,40,50,25,25,b,c,,Avatar,,,,,,,,,
+Yarne,70,50,10,45,40,60,45,10,m,c,,Panne,,,,,,,Taguel,,
+Laurent,45,20,40,40,30,50,25,35,m,c,,Miriel,,,,,,,Mage,,
+Noire,30,45,40,35,50,40,30,40,f,c,,Tharja,,,,,,,Archer,,
+Nah,70,35,35,45,35,70,45,40,f,c,,Nowi,,,,,,,Manakete,,

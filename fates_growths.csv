@@ -1,0 +1,70 @@
+﻿Name,HP,Str,Mag,Skl,Spd,Lck,Def,Res,Gender,Group,Aptitude,Parent,Role,Child1,Pair1,Pair2,Class1,Class2,Class3,Hoshido1,Hoshido2,Hoshido3,Nohr1,Nohr2,Nohr3
+Avatar,45,45,30,40,45,45,35,25,b,a,,,,Kana,,,Nohr Prince(ss),,,,,,,,
+Felicia,40,10,35,30,40,55,15,35,f,a,,,,,,,Troubadour,Mercenary,,Hana,,,Peri,Flora,
+Jakob,50,30,15,40,35,45,25,25,m,a,,,,Dwyer,,,Troubadour,Cavalier,,Takumi,Silas,,Gunter,Silas,
+Kaze,55,40,0,45,65,20,20,35,m,a,,,,Midori,,,Ninja,Samurai,,Saizo,Silas,,Xander,Silas,
+Azura,25,50,25,60,60,40,15,35,f,a,,,,Shigure,,,Songstress,Sky Knight,,Sakura,Hinoka,,Elise,,
+Silas,40,45,5,50,40,40,40,25,m,a,,,,Sophie,,,Cavalier,Mercenary,,Ryoma,Jakob,Kaze,Jakob,Kaze,
+Shura,30,25,10,20,35,30,15,35,m,,,,a,,,,Outlaw,Ninja,Fighter,,,,,,
+Izana,45,15,35,55,30,45,35,35,m,,,,ua,,,,Monk,Samurai,Apothecary,,,,,,
+Mozu,30,40,5,50,55,45,35,30,f,a,y,,,,,,Villager,Archer,,Oboro,,,Effie,Nyx,
+Gunter,15,5,0,5,0,15,5,5,m,,,,na,,,,Cavalier,Mercenary,Wyvern Rider,,,,Jakob,,
+Elise,30,5,65,25,55,70,15,40,f,nr,,,,,,,Troubadour,Wyvern Rider,,Sakura,,,Camilla,Azura,Effie
+Arthur,50,45,0,55,35,5,45,20,m,n,,,,Percy,Setsuna,Kagero,Fighter,Cavalier,,Azama,,,Benny,Niles,Keaton
+Effie,35,60,0,35,50,50,35,30,f,n,,,,,Azama,Hayato,Knight,Troubadour,,Hana,,,Elise,Mozu,Nyx
+Odin,55,35,30,55,35,60,40,20,m,n,,,,Ophelia,Orochi,Kagero,Dark Mage,Samurai,,Hinata,,,Leo,Niles,Laslow
+Niles,40,35,20,40,50,30,30,40,m,n,,,,Nina,Setsuna,Oboro,Outlaw,Dark Mage,,Subaki,,,Arthur,Leo,Odin
+Nyx,30,5,50,35,50,20,15,30,f,n,,,,,Subaki,Hayato,Dark Mage,Outlaw,,Orochi,,,Mozu,Effie,Charlotte
+Camilla,40,50,25,50,55,25,35,45,f,nr,,,,,,,Wyvern Rider,Dark Mage,,Hinoka,,,Elise,Selena,Beruka
+Selena,40,30,5,25,45,30,45,30,f,n,,,,,Subaki,Hinata,Mercenary,Sky Knight,,Setsuna,,,Camilla,Beruka,Peri
+Beruka,45,30,10,55,30,45,40,25,f,n,,,,,Saizo,Azama,Wyvern Rider,Fighter,,Oboro,,,Camilla,Selena,Charlotte
+Laslow,50,45,0,45,30,55,35,25,m,n,,,,Soleil,Hana,Orochi,Mercenary,Ninja,,Saizo,,,Odin,Keaton,Xander
+Peri,30,50,5,30,50,35,25,45,f,n,,,,,Hinata,Kaden,Cavalier,Dark Mage,,Kagero,,,Felicia,Charlotte,Selena
+Benny,50,40,0,50,10,35,55,45,m,n,,,,Ignatius,Rinkah,Oboro,Knight,Fighter,,Hayato,,,Keaton,Arthur,
+Charlotte,65,55,0,35,50,45,20,5,f,n,,,,,Saizo,Kaden,Fighter,Troubadour,,Rinkah,,,Nyx,Beruka,Peri
+Leo,45,25,55,35,45,45,30,45,m,nr,,,,Forrest,,,Dark Mage,Troubadour,,Takumi,,,Niles,Xander,Odin
+Keaton,60,60,0,20,35,30,50,25,m,n,,,,Velouria,Rinkah,Hana,Wolfskin,Fighter,,Kaden,,,Arthur,Benny,Laslow
+Xander,45,50,5,40,35,60,40,15,m,nr,,,,Siegbert,,,Cavalier,Wyvern Rider,,Ryoma,,,Kaze,Leo,Laslow
+Flora,35,40,20,45,30,35,30,30,f,,,,na,,,,Troubadour,Dark Mage,Mercenary,,,,Felicia,,
+Rinkah,20,25,15,50,45,35,45,20,f,h,,,,,Benny,Keaton,Oni Savage,Ninja,,Orochi,Oboro,Kagero,Charlotte,,
+Sakura,45,30,50,40,40,55,30,20,f,hr,,,,,,,Shrine Maiden,Sky Knight,,Azura,Hinoka,Hana,Elise,,
+Hana,25,55,10,45,55,25,20,30,f,h,,,,,Keaton,Laslow,Samurai,Shrine Maiden,,Felicia,Sakura,Setsuna,Effie,,
+Subaki,55,30,20,50,20,25,45,5,m,h,,,,Caeldori,Selena,Nyx,Sky Knight,Samurai,,Hinata,Azama,Saizo,Niles,,
+Saizo,40,50,45,60,30,55,45,10,m,h,,,,Asugi,Beruka,Charlotte,Ninja,Samurai,,Kaze,Subaki,Ryoma,Laslow,,
+Orochi,35,5,65,50,15,35,25,45,f,h,,,,,Odin,Laslow,Diviner,Apothecary,,Rinkah,Kagero,Oboro,Nyx,,
+Hinoka,45,45,15,40,45,40,35,40,f,hr,,,,,,,Sky Knight,Spear Fighter,,Azura,Setsuna,Sakura,Camilla,,
+Azama,55,50,20,40,45,40,40,20,m,h,,,,Mitama,Effie,Beruka,Monk,Apothecary,,Subaki,Hayato,Kaden,Arthur,,
+Setsuna,30,20,0,30,60,30,15,40,f,h,,,,,Arthur,Niles,Archer,Ninja,,Hinoka,Kagero,Hana,Selena,,
+Hayato,50,30,40,30,45,60,40,20,m,h,,,,Rhajat,Effie,Nyx,Diviner,Oni Savage,,Azama,Kaden,,Benny,Fuga,
+Oboro,30,40,20,40,40,40,40,30,f,h,,,,,Niles,Benny,Spear Fighter,Apothecary,,Mozu,Rinkah,Orochi,Beruka,,
+Hinata,55,35,0,25,15,45,45,15,m,h,,,,Hisame,Selena,Peri,Samurai,Oni Savage,,Takumi,Subaki,Kaden,Odin,,
+Takumi,50,35,0,60,40,45,35,20,m,hr,,,,Kiragi,,,Archer,Spear Fighter,,Jakob,Ryoma,Hinata,Leo,,
+Kagero,30,65,0,20,50,30,25,40,f,h,,,,,Arthur,Odin,Ninja,Diviner,,Orochi,Rinkah,Setsuna,Peri,,
+Reina,40,45,5,20,45,10,20,10,f,,,,ha,,,,Sky Knight,Diviner,Ninja,,,,,,
+Kaden,45,40,10,25,45,50,35,40,m,h,,,,Selkie,Peri,Charlotte,Kitsune,Diviner,,Hinata,Hayato,Azama,Keaton,,
+Ryoma,50,45,0,50,45,40,35,25,m,hr,,,,Shiro,,,Samurai,Sky Knight,,Silas,Takumi,Saizo,Xander,,
+Scarlet,30,45,20,40,50,40,25,20,f,,,,hua,,,,Wyvern Rider,Outlaw,Knight,,,,,,
+Yukimura,25,25,5,40,15,30,25,30,m,,,,hua,,,,Apothecary,Samurai,Monk,,,,,,
+Anna,35,30,55,30,40,70,20,45,f,,,,a,,,,Outlaw,Troubadour,Apothecary,,,,,,
+Fuga,20,20,0,15,5,20,10,10,m,,,,nha,,,,Samurai,Oni Savage,Monk,Hayato,,,,,
+Kana,30,35,30,40,45,45,25,25,b,,,Avatar,c,,,,Nohr Prince(ss),,,,,,,,
+Shigure,35,45,5,45,35,25,35,25,m,,,Azura,c,,,,Sky Knight,,,Hisame,,,Forrest,,
+Dwyer,45,45,30,20,30,30,30,35,m,,,Jakob,c,,,,Troubadour,,,Kiragi,Asugi,,Percy,,
+Sophie,35,35,10,55,50,35,25,35,f,,,Silas,c,,,,Cavalier,,,Caeldori,,,Velouria,Soleil,
+Midori,45,35,5,55,35,50,30,20,f,,,Kaze,c,,,,Apothecary,,,Selkie,Kana,,Ophelia,Kana,
+Siegbert,40,45,5,45,45,45,35,20,m,,,Xander,nc,,,,Cavalier,,,Shiro,,,Kana,Ignatius,Forrest
+Forrest,55,15,65,20,35,25,25,55,m,,,Leo,nc,,,,Troubadour,,,Kiragi,,,Shigure,Siegbert,Ignatius
+Ignatius,40,50,0,40,30,55,45,35,m,,,Benny,nc,,,,Knight,,,Asugi,,,Siegbert,Forrest,Percy
+Velouria,50,50,0,40,40,35,45,30,f,,,Keaton,nc,,,,Wolfskin,,,Selkie,,,Kana,Sophie,Nina
+Percy,30,30,5,45,40,75,55,15,m,,,Arthur,nc,,,,Wyvern Rider,,,Hisame,,,Kana,Dwyer,Ignatius
+Ophelia,45,15,45,40,45,65,20,30,f,,,Odin,nc,,,,Dark Mage,,,Rhajat,,,Midori,Soleil,
+Soleil,25,60,0,35,35,45,35,40,f,,,Laslow,nc,,,,Mercenary,,,Mitama,,,Sophie,Ophelia,Nina
+Nina,30,45,30,35,40,50,25,45,f,,,Niles,nc,,,,Outlaw,,,Caeldori,,,Soleil,Velouria,
+Shiro,50,50,0,40,35,35,45,30,m,,,Ryoma,hc,,,,Spear Fighter,,,Kiragi,Asugi,,Siegbert,,
+Kiragi,45,40,0,45,50,45,40,15,m,,,Takumi,hc,,,,Archer,,,Dwyer,Shiro,Hisame,Forrest,,
+Asugi,40,45,50,55,45,50,30,20,m,,,Saizo,hc,,,,Ninja,,,Dwyer,Shiro,Hisame,Ignatius,,
+Selkie,35,30,15,35,55,60,30,50,f,,,Kaden,hc,,,,Kitsune,,,Kana,Midori,Rhajat,Velouria,,
+Hisame,50,40,0,40,40,25,30,20,m,,,Hinata,hc,,,,Samurai,,,Shigure,Kiragi,Asugi,Percy,,
+Mitama,45,40,35,45,50,50,30,20,f,,,Azama,hc,,,,Shrine Maiden,,,Kana,Caeldori,Rhajat,Soleil,,
+Caeldori,55,35,15,40,40,45,35,20,f,,,Subaki,hc,,,,Sky Knight,,,Sophie,Mitama,Rhajat,Nina,,
+Rhajat,40,15,60,10,50,30,25,35,f,,,Hayato,hc,,,,Diviner,,,Selkie,Caeldori,Mitama,Ophelia,,
